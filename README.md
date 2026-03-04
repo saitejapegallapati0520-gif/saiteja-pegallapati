@@ -34,7 +34,7 @@ sai_teja = {
     "focus"       : ["Machine Learning", "Deep Learning", "LLMs", "RAG", "Agentic AI"],
     "certified"   : "AWS Solutions Architect Associate",
     "superpower"  : "Bridging AI/ML research with production-grade system deployment",
-    "status"      : "🟢 Actively seeking Full-time & Contract opportunities"
+    "status"      : " Actively seeking Full-time & Contract opportunities"
 }
 ```
 
@@ -91,18 +91,17 @@ sai_teja = {
 
 </div>
 
-> 🔗 *Links marked `#` will be updated as projects are uploaded*
 
 ---
 
 ##  Currently Learning & Building
 
 ```
-🔨 Building  →  RAG Application using LangChain + ChromaDB + OpenAI
-🔨 Building  →  Agentic AI system using LangGraph / CrewAI
-📖 Learning  →  MLflow for experiment tracking & model versioning
-📖 Learning  →  dbt (data build tool) for analytics engineering
-🎯 Target    →  Hugging Face model fine-tuning on domain-specific data
+ Building  →  RAG Application using LangChain + ChromaDB + OpenAI
+ Building  →  Agentic AI system using LangGraph / CrewAI
+ Learning  →  MLflow for experiment tracking & model versioning
+ Learning  →  dbt (data build tool) for analytics engineering
+ Target    →  Hugging Face model fine-tuning on domain-specific data
 ```
 
 ---
@@ -121,7 +120,7 @@ sai_teja = {
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
