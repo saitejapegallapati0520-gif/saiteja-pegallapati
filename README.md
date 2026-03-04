@@ -82,12 +82,12 @@ sai_teja = {
 
 <div align="center">
 
-| 🔬 Project | 📋 Description | 🛠️ Stack | 📊 Result |
+|  Project |  Description |  Stack |  Result |
 |-----------|----------------|----------|-----------|
-| [**GAN Medical Image Augmentation**](https://github.com/saiteja-pegallapati/gan-medical-image-augmentation) | 6-phase research study comparing DCGAN, StyleGAN2 & class-specific GANs for skin lesion classification on HAM10000 | TensorFlow · Keras · DCGAN · StyleGAN2 · CNN | **79% accuracy · Macro F1: 0.74** |
-| [**Anomaly Detection in Network Traffic**](#) | Unsupervised pipeline using AutoEncoders, VAE & Isolation Forest on KDD Cup 1999 dataset | Python · PyOD · PCA · AutoEncoders · VAE | **>95% accuracy · 0.97 recall** |
+| [**GAN Medical Image Augmentation**](https://github.com/saitejapegallapati0520-gif/gan-medical-image-augmentation) | 6-phase research study comparing DCGAN, StyleGAN2 & class-specific GANs for skin lesion classification on HAM10000 | TensorFlow · Keras · DCGAN · StyleGAN2 · CNN | **79% accuracy · Macro F1: 0.74** |
+| [**Anomaly Detection in Network Traffic**](https://github.com/saitejapegallapati0520-gif/anomaly-detection-network-traffic) | Unsupervised pipeline using AutoEncoders, VAE & Isolation Forest on KDD Cup 1999 dataset | Python · PyOD · PCA · AutoEncoders · VAE | **>95% accuracy · 0.97 recall** |
 | [**Concrete Strength Prediction DNN**](#) | Deep neural network predicting compressive strength from 8 material features, outperforming linear regression | TensorFlow · Keras · BatchNorm · Dropout | **Reduced MAE & RMSE vs baseline** |
-| [**RAG Application**](#) | Enterprise document Q&A system using Retrieval-Augmented Generation | LangChain · ChromaDB · OpenAI · Streamlit | **Coming Soon 🔨** |
+| [**RAG Application**](#) | Enterprise document Q&A system using Retrieval-Augmented Generation | LangChain · ChromaDB · OpenAI · Streamlit | **Coming Soon** |
 
 </div>
 
@@ -125,11 +125,11 @@ sai_teja = {
 
 <div align="center">
 
-![Sai Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja-pegallapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sai Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saitejapegallapati0520-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-pegallapati&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitejapegallapati0520-gif&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saiteja-pegallapati&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=saitejapegallapati0520-gif&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -159,7 +159,7 @@ sai_teja = {
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=saiteja-pegallapati&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=saitejapegallapati0520-gif&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 * If you find my projects useful, feel free to star them!*
 
